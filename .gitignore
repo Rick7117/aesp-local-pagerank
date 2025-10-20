@@ -11,5 +11,6 @@ venv/
 .vscode/
 *.log
 
-datasets/
+datasets/**/opt_solutions/
+datasets/**/results/
 
